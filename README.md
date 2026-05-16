@@ -47,6 +47,6 @@
 ---
 
 ## Connect with me
-Linkedln : https://www.linkedin.com/in/rish-bansal/ 
-GitHub : https://github.com/RishitaBansal12
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your LinkedIn URL here](https://www.linkedin.com/in/rish-bansal/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RishitaBansal12) 
 ![Profile views](https://komarev.com/ghpvc/?username=RishitaBansal12&color=blue&style=flat)
