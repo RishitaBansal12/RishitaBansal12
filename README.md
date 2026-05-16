@@ -49,3 +49,4 @@
 ## Connect with me
 Linkedln : https://www.linkedin.com/in/rish-bansal/ 
 GitHub : https://github.com/RishitaBansal12
+![Profile views](https://komarev.com/ghpvc/?username=RishitaBansal12&color=blue&style=flat)
