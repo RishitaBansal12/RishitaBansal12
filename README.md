@@ -14,10 +14,12 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
-
-| https://github.com/RishitaBansal12/credit-fraud-analysis | Hypothesis testing on 284k+ Mastercard transactions to identify fraud signals & validate interventions | Python · scipy · statsmodels · pandas · seaborn |
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Credit Fraud Analysis](https://github.com/RishitaBansal12/credit-fraud-analysis) | Hypothesis testing on 284k+ Mastercard transactions to identify fraud signals & validate interventions | Python · scipy · statsmodels · pandas · seaborn |
+| [Loan Amount Prediction](https://github.com/RishitaBansal12/loan-regression-project) | Linear regression model to predict loan eligibility in BFSI domain | Python · scikit-learn · pandas · seaborn |
 
 ---
 
